@@ -1,5 +1,0 @@
-initalized
-Traceback (most recent call last):
-  File "/home/robot/2_wheel_2023_24_auto/ColorSort.py", line 84, in <module>
-  File "/home/robot/2_wheel_2023_24_auto/ColorSort.py", line 65, in SortColor
-AttributeError: 'ColorSensor' object has no attribute 'Color'
